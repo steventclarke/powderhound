@@ -1,0 +1,19 @@
+{
+  "name": "powderhound",
+  "version": "1.0.0",
+  "description": "Winter travel app for finding and booking ski vacations",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steventclarke/powderhound.git"
+  },
+  "author": "Steven Clarke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steventclarke/powderhound/issues"
+  },
+  "homepage": "https://github.com/steventclarke/powderhound#readme"
+}
